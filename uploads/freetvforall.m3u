@@ -19,7 +19,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/XqHD95rL/MOno.jpg",MONO
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w1512931905.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/125_y_9yqQrmCd6GNcgesAxhFnKWpwRaUiODEu.png",TRUE24
-https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",GMM25
 https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499673.png" group-title="Digital TV",WORK POINT
