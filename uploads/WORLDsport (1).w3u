@@ -1,0 +1,610 @@
+{
+		"name": "WORLDsport",
+		"author": "เพื่อการศึกษา",
+		"image":"https://png.pngtree.com/png-vector/20240605/ourmid/pngtree-illustration-of-football-world-cup-teams-logo-png-image_12612191.png",
+		"url": "https://drive.google.com/uc?export=download&id=101vRY1WklKvyJZIWIXyF0IAhObvYjByy",
+		 "info": "ชมกีฬาผ่านช่องSPOTV,SPOTV2,BTsport",
+ 
+
+		"stations":[
+ 
+
+{"name": "Spotv-A🇹🇭",
+"image":"https://i.imgur.com/BRZ8rmA.png",
+"url": "https://dookeela.live/live-tv/spotv",
+"referer":"https://dookeela.live/",
+"info":"dookeela.live",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv-B🇹🇭",
+"image":"https://i.imgur.com/BRZ8rmA.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"warpdooball.net",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv-C🇹🇭",
+"image":"https://i.imgur.com/BRZ8rmA.png",
+"url": "https://www.ball24.tv/allchannel/?id=spotv1",
+"referer":"https://www.ball24.tv/",
+"info":"ball24.tv",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv-D🇹🇭",
+"image":"https://i.imgur.com/BRZ8rmA.png",
+"url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
+"referer":"https://www.madoohd.com/",
+"info":"madoohd.com",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv-E🇮🇩",
+"image":"https://i.imgur.com/BRZ8rmA.png",
+"url": "https://dooball2you.com/live/spotv1/",
+"referer":"https://dooball2you.com/",
+"info":"dooball2you.com",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv-F🇹🇭",
+"image":"https://i.imgur.com/BRZ8rmA.png",
+"url": "https://cdnsv1.bunnycdncloud.com/dooball2you/spotv1/th-sport/spotv1/chunks.m3u8",
+"referer":"https://dooball2you.com/",
+"info":"dooball2you.com",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv-G🇹🇭",
+"image":"https://i.imgur.com/BRZ8rmA.png",
+"url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
+"referer":"https://www.madoohd.com/",
+"info":"madoohd.com",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv2-A🇹🇭",
+"image":"https://www.i-pic.info/i/Y3Bt665350.png",
+"url": "https://dookeela.live/live-tv/spotv2",
+"referer":"https://dookeela.live/",
+"info":"dookeela.live",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv2-B🇹🇭",
+"image":"https://www.i-pic.info/i/Y3Bt665350.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"info":"warpdooball.net",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv2-C🇹🇭",
+"image":"https://www.i-pic.info/i/Y3Bt665350.png",
+"url": "https://www.ball24.tv/allchannel/?id=spotv2",
+"referer":"https://www.ball24.tv/",
+"info":"ball24.tv",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv2-D🇹🇭",
+"image":"https://www.i-pic.info/i/Y3Bt665350.png",
+"url":"https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+"referer":"https://www.madoohd.com/",
+"info":"madoohd.com",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv2-E🇮🇩",
+"image":"https://www.i-pic.info/i/Y3Bt665350.png",
+"url": "https://dooball2you.com/live/spotv2/",
+"referer":"https://dooball2you.com/",
+"info":"dooball2you.com",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv2-F🇹🇭",
+"image":"https://www.i-pic.info/i/Y3Bt665350.png",
+"url":"https://cdnsv1.bunnycdncloud.com/dooball2you/spotv2/th-sport/spotv2/chunks.m3u8",
+"referer":"https://dooball2you.com/",
+"info":"dooball2you.com",
+"playInNatPlayer":"true"},
+
+{"name": "Spotv2-G🇹🇭",
+"image":"https://www.i-pic.info/i/Y3Bt665350.png",
+"url":"https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+"referer":"https://www.madoohd.com/",
+"info":"madoohd.com",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots1-A🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url": "https://cdn1.googlecdn.live/dooballx/tsp1/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"},
+
+{"name": "True Spots1-B🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/th-sport/truesport1/chunks.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots1-C🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "True Spots1-D🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-8/chunks.m3u8",
+"referer": "https://doolive4k.tv/",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots1-E🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url":"https://www.ball24.tv/allchannel/?id=truesporthd",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots1-F🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url":"https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"playInNatPlayer": "true"},
+
+{"name":"True Spots2-A🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "True Spots2-B🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+"url": "https://cdn1.googlecdn.live/dooballx/tsp2/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"},
+
+{"name":"True Spots2-C🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+"url":"https://dooball2you.com/live/truesporthd2/",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots2-D🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-9/chunks.m3u8",
+"referer": "https://doolive4k.tv/",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots2-E🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+"url":"https://www.ball24.tv/allchannel/?id=truesporthd2",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots2-F🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+"url":"https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"playInNatPlayer": "true"},
+
+{"name": "True Spots3-A🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "True Spots3-B🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",
+"url": "https://cdn1.googlecdn.live/dooballx/tsp3/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"},
+
+{"name":"True Spots3-C🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",
+"url":"https://dooball2you.com/live/truesporthd3/",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots3-D🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",
+"url":"https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots3-E🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png",
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-10/chunks.m3u8",
+"referer": "https://dooball123.com/",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots4-A🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "True Spots4-B🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
+"url": "https://dookeela.live/live-tv/tsp4",
+"playInNatPlayer":"true"},
+
+{"name":"True Spots4-C🇹🇭",
+"image":"https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=395&tv=truesports4",
+"referer": "https://goal-th.com/",
+"playInNatPlayer": "true"},
+
+{"name": "Sky Sports F1-A🇬🇧",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name": "Sky Sports F1-B🇬🇧",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png",
+url:"https://dookeela.live/live-tv/skysportsf1",
+"referer":"https://dookeela.live/",
+"playInNatPlayer":"true"},
+
+{"name": "Sky Sports F1-C🇬🇧",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sky Sports F1🇮🇹",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium577/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sky Sports MotoGP🇮🇹",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_MotoGP_-_Logo_2014.svg/1024px-Sky_Sport_MotoGP_-_Logo_2014.svg.png?20180810231924",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium575/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "CANAL+MotoGP🇫🇷",
+"image": "https://i.imgur.com/WGfEZzF.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium271/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Canal+ Formula1🇫🇷",
+"image": "https://i.imgur.com/a0cOoZZ.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium273/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"SuperSport Motorsport🇿🇦",
+"image":"https://i.imgur.com/OdRyfkL.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"DAZN F1-A🇪🇸",
+"image":"https://i.imgur.com/UZsidQA.png",
+url:"https://dookeela.live/live-tv/daznf1",
+"playInNatPlayer":"true"},
+
+{"name":"DAZN F1-B🇪🇸",
+"image":"https://i.imgur.com/UZsidQA.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 1-A🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url": "https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 1-B🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 1-C🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url": "https://dookeela.live/live-tv/bein1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 1-D🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8",
+"referer":"https://dooball2you.com/",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 1-E🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/chunks.m3u8",
+"referer":"https://doolive4k.tv/",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 2🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+"url": "https://dookeela.live/live-tv/bein2",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 3-A🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"url": "https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 3-B🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 3-C🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"url": "https://dookeela.live/live-tv/bein3",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports 3-D🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"playInNatPlayer":"true"},
+
+{"name":"beIN Sports 4-A🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",
+"url": "https://streaming.livescorethai.net/iptv/epl-bein4.stream/playlist.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name":"beIN Sports 4-B🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",
+"url": "https://cdn1.googlecdn.live/dooballx/bein4/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"},
+
+{"name":"beIN Sports 5🇹🇭",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQFeNVDh8-PJHWL3BaC-qM6f9pczlHXJCFQ&s",
+"url": "https://cdn1.googlecdn.live/dooballx/bein5/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"},
+
+{"name":"beIN Sports 6🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",
+"url": "https://cdn1.googlecdn.live/dooballx/bein6/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"},
+
+{"name":"beIN Sports 7🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",
+"url": "https://cdn1.googlecdn.live/dooballx/bein7/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"},
+
+{"name":"beIN Sports 8🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",
+"url": "https://dookeela.live/live-tv/bein8",
+"playInNatPlayer": "true"},
+
+{"name":"beIN Sports 9🇹🇭",
+"image": "https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",
+"url": "https://dookeela.live/live-tv/bein9",
+"playInNatPlayer": "true"},
+
+{"name":"beIN Sports 10🇹🇭",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_wq2jxEuzaRuEt8PFAQC3IZC8BDQA-xorwA&s",
+"url": "https://dookeela.live/live-tv/bein10",
+"playInNatPlayer": "true"},
+
+{"name":"TNT SportS 1-A🇬🇧",
+"image": "https://tvprofil.com/img/kanali-logo/TNT_Sport_1_GB_logo.png?1690269949",
+"url": "https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name":"TNT SportS 1-B🇬🇧",
+"image": "https://tvprofil.com/img/kanali-logo/TNT_Sport_1_GB_logo.png?1690269949",
+"url":"https://dookeela.live/live-tv/btsport1",
+"playInNatPlayer": "true"},
+
+{"name": "TNT SportS 1-C🇬🇧",
+"image": "https://tvprofil.com/img/kanali-logo/TNT_Sport_1_GB_logo.png?1690269949",
+"url": "https://dooball2you.com/live/bt-sport-1/",
+"playInNatPlayer": "true"},
+
+{"name":"TNT SportS 2-A🇬🇧",
+"image": "https://media.info/l/o/1/1540.1690027877.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name":"TNT SportS 2-B🇬🇧",
+"image": "https://media.info/l/o/1/1540.1690027877.png",
+"url":"https://dookeela.live/live-tv/btsport2",
+"playInNatPlayer": "true"},
+
+{"name": "TNT SportS 2-C🇬🇧",
+"image": "https://media.info/l/o/1/1540.1690027877.png",
+"url": "https://dooball2you.com/live/bt-sport-2/",
+"playInNatPlayer": "true"},
+
+{"name": "TNT SportS 3-A🇬🇧",
+"image": "https://media.info/l/o/5/5712.1690027954.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer":"true"},
+
+{"name": "TNT SportS 3-B🇬🇧",
+"image": "https://media.info/l/o/5/5712.1690027954.png",
+"url": "https://dooball2you.com/live/bt-sport-3/",
+"playInNatPlayer": "true"},
+
+{"name":"TNT SportS 3-C🇬🇧",
+"image":"https://media.info/l/o/5/5712.1690027954.png",
+"url":"https://dookeela.live/live-tv/btsport3",
+"playInNatPlayer": "true"},
+
+{"name": "TNT SportS4-A🇬🇧",
+"image": "https://media.info/l/o/1/1491.1690027975.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-espn.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "TNT SportS4-B🇬🇧",
+"image": "https://media.info/l/o/1/1491.1690027975.png",
+"url":"https://dookeela.live/live-tv/btsport4",
+"playInNatPlayer": "true"},
+
+{"name": "Eurosport 1A🇬🇧",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s",
+"url": "https://streaming.livescorethai.net/iptv/uk-eurosport.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name": "Eurosport 1B🇬🇧",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s",
+"url": "http://yellowbaracudda77.com:8080/play/live.php?mac=00:1A:79:70:46:95&stream=407&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name": "Eurosport 2A🇬🇧 ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWIgiD2MY0EyA2uf4ZuWUVujA4qrOatOswoA&s",
+"url": "https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"PlayInNatPlayer": "true"},
+
+{"name": "Eurosport 2B🇬🇧 ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWIgiD2MY0EyA2uf4ZuWUVujA4qrOatOswoA&s",
+"url": "http://yellowbaracudda77.com:8080/play/live.php?mac=00:1A:79:70:46:95&stream=409&extension=ts",
+"PlayInNatPlayer": "true"},
+
+{"name": "Eurosport 1A🇪🇸",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium524/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Eurosport 1B🇪🇸",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s",
+"url": "https://dookeela.live/live-tv/eurosport1es",
+"PlayInNatPlayer": "true"},
+
+{"name": "Eurosport 2A🇪🇸",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWIgiD2MY0EyA2uf4ZuWUVujA4qrOatOswoA&s",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium525/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Eurosport 2B🇪🇸",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWIgiD2MY0EyA2uf4ZuWUVujA4qrOatOswoA&s",
+"url": "https://dookeela.live/live-tv/eurosport2es",
+"PlayInNatPlayer": "true"},
+
+{"name":"Eurosport 1🇮🇹",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium878/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Eurosport 2🇮🇹",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWIgiD2MY0EyA2uf4ZuWUVujA4qrOatOswoA&s",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium879/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "MotoAmerica",
+"image": "https://i.imgur.com/5B3TjBc.png",
+"url": "https://www.distro.tv/live/motoamerica-tv/",
+"playInNatPlayer": "true"},
+
+{"name": "Motor Racing",
+"image": "https://i.imgur.com/7h4XIzM.png",
+"url": "https://www.distro.tv/live/motorracing/",
+"playInNatPlayer": "true"},
+
+{"name": "FloRacing",
+"image": "https://i.imgur.com/N7jGnuH.png",
+"url": "https://www.distro.tv/live/floracing-247/",
+"playInNatPlayer": "true"},
+
+{"name": "MTRSPT1",
+"image": "https://i.imgur.com/jq0vucc.png",
+"url": "https://www.distro.tv/live/mtrspt1/",
+"playInNatPlayer":"true"},
+
+{"name":"MotorSport TV",
+"image":"https://i.imgur.com/X93QnO9.png",
+url:"https://www.cxtvlive.com/live-tv/motorsport-tv",
+"playInNatPlayer":"true"},
+
+{"name": "SportsGrid",
+"image": "https://i.imgur.com/Dmpo25h.png",
+"url": "https://www.distro.tv/live/sportsgrid/",
+"playInNatPlayer":"true"},
+
+{"name":"Viaplay Sports1-A🇬🇧",
+"image": "https://www.thesportsdb.com/images/media/channel/logo/bm9azf1678871805.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8",
+"referer": "https://livescorethai.net/",
+"playInNatPlayer": "true"},
+
+{"name":"Viaplay Sports1-B🇬🇧",
+"image": "https://www.thesportsdb.com/images/media/channel/logo/bm9azf1678871805.png",
+"url":"https://dookeela.live/live-tv/premiersports1uk",
+"playInNatPlayer": "true"},
+
+{"name": "Viaplay Sports1-C🇬🇧",
+"image":"https://www.thesportsdb.com/images/media/channel/logo/bm9azf1678871805.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Viaplay Sports2-A🇬🇧",
+"image": "https://www.thesportsdb.com/images/media/channel/logo/kxyaqo1678871855.png",
+"url":"https://dookeela.live/live-tv/premiersports2uk",
+"playInNatPlayer": "true"},
+
+{"name":"Viaplay Sports2-B🇬🇧",
+"image": "https://www.thesportsdb.com/images/media/channel/logo/kxyaqo1678871855.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Prima Sport1-A🇷🇴",
+"image": "https://i.imgur.com/raykHnz.png",
+"url": "https://cdn1.googlecdn.live/dooballx/primasport1/chunks.m3u8",
+"referer": "https://dooballx.com/",
+"playInNatPlayer": "true"},
+
+{"name":"Prima Sport1-B🇷🇴",
+"image": "https://i.imgur.com/raykHnz.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=211&tv=PrimaSport1",
+"playInNatPlayer":"true"},
+
+ 
+ 
+]
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
