@@ -1,14 +1,6 @@
-#EXTM3U
- url="https://raw.githubusercontent.com/pantip789/test/main/uploads/freetvforall.m3u"
-#EXTINF:-0 group-title="หนังอัพใหม่"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4796/202402181609255E74.jpg",Kill Me If You Dare (Zabij mnie, kochanie) - ถ้ากล้า ก็ฆ่าเลย
+#EXTM3U url="https://raw.githubusercontent.com/MrRobot07011997/test/refs/heads/main/freetvforall.m3u"
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",TPBS
 https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",TPBS
-https://www.inwiptv.com/player_demo.php?channel=89780
-#EXTINF:-1,Cartoonetwork http://45.150.128.170:8080/playidtv1/12345/55
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",Cartoonetwork
-https://dookeela.live
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/121_y_vOC9d8VmjNiQJBHf4DEkryalx7XG13PR.png",TNN16
 https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/JKN.png",JKN18
@@ -25,9 +17,9 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/XqHD95rL/MOno.jpg",MONO
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w1512931905.m3u8
+https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/125_y_9yqQrmCd6GNcgesAxhFnKWpwRaUiODEu.png",TRUE24
-https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",GMM25
 https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499673.png" group-title="Digital TV",WORK POINT
@@ -261,7 +253,3 @@ https://fw4free.inwstream.com/fw4free/sport3.stream/playlist.m3u8
 https://cdn-la2.aws-stream.com/ondemand/od1/40244/video.m3u8
 #EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/in-ten2.png" group-title="SONY TV", SONT TEN 2
 https://cdn-la2.aws-stream.com/ondemand/od1/40243/tracks-v1a1/mono.m3u8
-
-
-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4263/20230529172501NG7E.jpg",The Tank - ท่อสยองพันธุ์ขย้ำ (2023) https://movie.server-cdn-streaming.com/api/uploads/movie/4263/video/11464/hls/movie.m3u8 #EXTINF:-0 group-title="หนังฝรั่ง" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4261/20230529153236KYfO.jpg",Luck - ลัค (2022) [HD] https://movie.server-cdn-streaming.com/api/uploads/movie/4261/video/11463/hls/movie.m3u8 #EXTINF:-0 group-title="หนังฝรั่ง" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4260/20230529154035ctb1.jpg",Blair Witch - แบลร์ วิทช์ ตำนานผีดุ (2016) https://movie.server-cdn-streaming.com/api/uploads/movie/4260/video/11461/hls/movie.m3u8 #EXTINF:-0 group-title="หนังฝรั่ง" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4258/202305291207062Bgl.jpg",A DOG’S WAY HOME - เพื่อนรักผจญภัยสี่ร้อยไมล์ (2019) https://movie.server-cdn-streaming.com/api/uploads/movie/4258/video/11452/hls/movie.m3u8 #EXTINF:-0 group-title="หนังฝรั่ง" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4253/20230527122248OMFl.jpg",Curse of Chucky - คำสาปแค้นฝังหุ่น (2013) [HD] พากย์ไทย https://movie.server-cdn-streaming.com/api/uploads/movie/4253/video/11449/hls/movie.m3u8 #EXTINF:-0 group-title="หนังฝรั่ง" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4251/20230527115801ajQ6.jpg",Bride of Chucky 4 - แค้นฝังหุ่น 4 คู่สวาทวิวาห์สยอง (1998) https://movie.server-cdn-streaming.com/api/uploads/movie/4251/video/11422/hls/movie.m3u8 #EXTINF:-0 group-title="หนังฝรั่ง" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4252/20230527115947pwxo.jpg",Seed of Chucky เชื้อผีแค้นฝังหุ่น - Seed of Chucky เชื้อผีแค้นฝังหุ่น (2004) https://movie.server-cdn-streaming.com/api/uploads/movie/4252/video/11424/hls/movie.m3u8 #EXTINF:-0 group-title="หนังฝรั่ง" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4250/20230527115621lQwx.jpg",Child's Play 3 - แค้นฝังหุ่น 3 (1991) [HD] พากย์ไทย https://movie.server-cdn-streaming.com/api/uploads/movie/4250/video/11420/hls/movie.m3u8 #EXTINF:-0 group-title="หนังฝรั่ง"tvg-logo="", #EXTINF:-0 group-title="หนังฝรั่ง"tvg-logo="", #EXTINF:-0 group-title="หนังฝรั่ง"tvg-logo="", #######################################################หนังไทย################################################################################################################################### #EXTINF:-0 group-title="THAI NEW"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5214/20240705180251z1mM.jpg",Pattaya Heat - ปิดเมืองล่า (2024) https://movie.server-cdn-streaming.com/api/uploads/movie/5214/video/18574/hls/movie.m3u8 #EXTINF:-0 group-title="THAI NEW"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5204/20240619122654h8id.jpg",Chinatown Chacha - ไชน่าทาวน์ ชะช่า (2024) https://movie.server-cdn-streaming.com/api/uploads/movie/5204/video/18482/hls/movie.m3u8 #EXTINF:-0 group-title="THAI NEW"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5189/2024060612194166aj.jpg",อีสานซอมบี้ - E-Sarn Zombie (2023) https://movie.server-cdn-streaming.com/api/uploads/movie/5189/video/18382/hls/movie.m3u8 #EXTINF:-0 group-title="THAI NEW"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4532/20231201110445mQjE.jpg",4KING 2 - 4 คิงส์ 2 (2023) https://movie.server-cdn-streaming.com/api/uploads/movie/4532/video/18261/hls/movie.m3u8 #EXTINF:-0 group-title="THAI NEW"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4706/202401301148439oWL.jpg",ของแขก - ของแขก (2023) https://movie.server-cdn-streaming.com/api/uploads/movie/4706/video/17862/hls/movie.m3u8 #EXTINF:-0 group-title="THAI NEW"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4710/20240130124821G064.jpg",ธี่หยด (2023) https://movie.server-cdn-streaming.com/api/uploads/movie/4710/video/17666/hls/movie.m3u8 
-
