@@ -10,10 +10,10 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499673.png" group-title="Digital TV",PPTV
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499673.png" group-title="Digital TV",AMRIN TV
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="Digital TV", ไทยรัฐทีวี
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499673.png" group-title="Digital TV",ThaiRat TV
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="Digital TV", อมรินทร์ทีวี
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/XqHD95rL/MOno.jpg",MONO
