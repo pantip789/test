@@ -1,11 +1,5 @@
 #EXTM3U 
 
-  url="https://raw.githubusercontent.com/pantip789/test/main/uploads/juria%20movie.m3u"
-
-
-
-
-
 #EXTINF:-1 group-title="อัพเดจข้อมูล" tvg-logo="https://i.xtemus.com/file/5955.jpg",24/2/24dadatv
 https://dadajude.000webhostapp.com/dadatv.mp4
 https://main.24playerhd.com/m3u8/e4add456440a0b09462fd0e2/e4add456440a0b09462fd0e2168.m3u8
