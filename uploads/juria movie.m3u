@@ -8,11 +8,15 @@
 
 #EXTINF:-1 group-title="อัพเดจข้อมูล" tvg-logo="https://i.xtemus.com/file/5955.jpg",24/2/24dadatv
 https://dadajude.000webhostapp.com/dadatv.mp4
+https://main.24playerhd.com/m3u8/e4add456440a0b09462fd0e2/e4add456440a0b09462fd0e2168.m3u8
+
+
+#EXTINF:-0 group-title="หนังอัพใหม่"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4796/202402181609255E74.jpg",Kill Me If You Dare (Zabij mnie, kochanie) - ถ้ากล้า ก็ฆ่าเลย
 
 #EXTINF:-0 group-title="หนังอัพใหม่"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4796/202402181609255E74.jpg",Kill Me If You Dare (Zabij mnie, kochanie) - ถ้ากล้า ก็ฆ่าเลย 
 https://movie.server-cdn-streaming.com/api/uploads/movie/4796/video/16000/hls/movie.m3u8
 #EXTINF:-0 group-title="หนังอัพใหม่"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4762/202402081653099ohk.jpg",14 Again I Love You Two Thousand - 14 อีกครั้ง 
-https://movie.server-cdn-streaming.com/api/uploads/movie/4762/video/15727/hls/movie.m3u8
+https://movie.server-cdn-streaming.com/api/uploads/movie/4796/video/16000/hls/movie.m3u8
 #EXTINF:-0 group-title="หนังอัพใหม่"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4761/20240208160228a7WB.jpg",บู๊ระห่ำล่าล้างนรก ทุบนรกแตก - The Roundup: No Way Out (2023)
 https://movie.server-cdn-streaming.com/api/uploads/movie/4761/video/15723/hls/movie.m3u8
 #EXTINF:-0 group-title="หนังอัพใหม่"tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4758/20240208113236UN2n.jpg",The Letter - เดอะ เลตเตอร์ จดหมายรัก (2004)
