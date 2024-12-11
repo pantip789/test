@@ -22,21 +22,21 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w1512931905.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/125_y_9yqQrmCd6GNcgesAxhFnKWpwRaUiODEu.png",6✅TRUE24
 https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",GMM25
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",2✅GMM25
 https://hls-nginx.v2h-cdn.com/hls/gmm25myStream.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="Digital TV",WORK POINT
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="Digital TV",3✅WORK POINT
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="Digital TV",CH3
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="Digital TV",5✅CH3
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/118_y_GimRnJkEqLtCh2rUueBlFa9oDpNKsvSc.png",5HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/118_y_GimRnJkEqLtCh2rUueBlFa9oDpNKsvSc.png",6✅5HD
 https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/134_y_lPVyKhindFZtxqa3DRp8XN2j5QoGfkeL.png",7 HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/134_y_lPVyKhindFZtxqa3DRp8XN2j5QoGfkeL.png",7✅7 HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/129_y_QM4D2CX1RUHmVaWJcYIKqZowPEjubinT.png",MCOT
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/129_y_QM4D2CX1RUHmVaWJcYIKqZowPEjubinT.png",8✅MCOT
 https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",9✔NBT
 https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/4Bol643617.png",ALTV4
 https://edge6a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
@@ -44,11 +44,11 @@ https://edge6a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
 https://edge6a.v2h-cdn.com/news1/news1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/TwwQXPFc/TOPNEW.jpg",TOPNEW HD
 https://live.topnews.co.th/hls/topnews_720.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png",ช่อง 8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png",10✅ช่อง 8
 https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/gJz8LvpC/TPTV.jpg",TPTV
 https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/q7FXrdNm/TS.jpg",TSPORT
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/q7FXrdNm/TS.jpg",12✅TSPORT
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/urY0361032.png",SIAM NEWS
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
@@ -58,7 +58,7 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/4xbGKRZ6/MFC.jpg",Moive FC
 http://210.210.155.66/h/h194/index.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/173_y_eWScN8UFrhVBEbdlOpns4ki9at53z7wT.png",Boomerang
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/173_y_eWScN8UFrhVBEbdlOpns4ki9at53z7wT.png",14✅Boomerang
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png",CMC Music
 https://cmc-ono.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D&uid=1he0cenp3-ahib-sl-0gn9-o12eppsod2n/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
@@ -72,7 +72,7 @@ https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/62407
 https://edge2z.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/3JF26nxn/CNA.jpg",CNA
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/W435G8Rk/NHK.jpg",NHK WORLD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/W435G8Rk/NHK.jpg",15✅NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1705785371.png",CCTV4
 https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
