@@ -62,8 +62,8 @@ https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 https://cmc-ono.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D&uid=1he0cenp3-ahib-sl-0gn9-o12eppsod2n/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png",V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/a61c1185810544a4ca35493a42549f33.png",น้องหมูเด้ง
-https://live-stream.zoodio.live/channel21-hippo/stream.m3u8
+"#EXTINF:-1 group-title="Digital TV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/a61c1185810544a4ca35493a42549f33.png",น้องหมูเด้ง
+"https://live-stream.zoodio.live/channel21-hippo/stream.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5Jicw5gz4pMZbNuSmCbY6meWyz-Jxz8bvF5CyGhJkN06DctyfNwFu5y0&s=10",BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/zftjQpp9/F24.jpg",France 24)
