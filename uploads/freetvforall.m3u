@@ -1,6 +1,10 @@
 #EXTM3U url="https://raw.githubusercontent.com/MrRobot07011997/test/refs/heads/main/freetvforall.m3u"
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",1✅TPBS
 https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MONOPLUS.th" tvg-name="MonoPlus" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องหนังทีวี", 000.MONO29 PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png", Boomerang
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/121_y_vOC9d8VmjNiQJBHf4DEkryalx7XG13PR.png",3✅TNN16
