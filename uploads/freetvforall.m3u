@@ -108,28 +108,28 @@ https://fw4free.inwstream.com/fw4free/ch5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/content/dam/tsn/en/home/images/2023/6/7/laliga-1-1970292-1686151604186.jpeg" group-title="SPORT TH VIP",LALIGA
 #EXTVLCOPT:http-referrer=""
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",BEIN 1 THAILAND
-#EXTVLCOPT:http-referrer=https://guwarpball.vip/
-https://cdn3.aws-live-streaming.com:446/gwb/bein1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1690843424.png" group-title="SPORT TH VIP",BEIN 2 THAILAND
-#EXTVLCOPT:http-referrer=https://guwarpball.vip/
-https://cdn3.aws-live-streaming.com:446/gwb/bein2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980670.png" group-title="SPORT TH VIP",BEIN 3 THAILAND
-#EXTVLCOPT:http-referrer=https://guwarpball.vip/
-https://cdn3.aws-live-streaming.com:446/gwb/bein3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1692816640.png" group-title="SPORT TH VIP",BEIN 4 THAILAND
-#EXTVLCOPT:http-referrer=https://guwarpball.vip/
-https://cdn3.aws-live-streaming.com:446/gwb/bein4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1693290376.png" group-title="SPORT TH VIP",BEIN 5 THAILAND
-#EXTVLCOPT:http-referrer=https://guwarpball.vip/
-https://cdn3.aws-live-streaming.com:446/gwb/bein5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719513.png" group-title="SPORT TH VIP",BEIN 6 THAILAND
-#EXTVLCOPT:http-referrer=https://guwarpball.vip/
-https://cdn3.aws-live-streaming.com:446/gwb/bein6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719622.png" group-title="SPORT TH VIP",BEIN 7 THAILAND
-#EXTVLCOPT:http-referrer=https://guwarpball.vip/
-https://cdn3.aws-live-streaming.com:446/gwb/bein7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport1.jpg" group-title="SPORT TH VIP" ,True Sport 1
+"#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="SPORT TH VIP",BEIN 1 THAILAND
+"#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+"https://cdn3.aws-live-streaming.com:446/gwb/bein1/playlist.m3u8
+"#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1690843424.png" group-title="SPORT TH VIP",BEIN 2 THAILAND
+"#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+"https://cdn3.aws-live-streaming.com:446/gwb/bein2/playlist.m3u8
+"#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980670.png" group-title="SPORT TH VIP",BEIN 3 THAILAND
+"#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+"https://cdn3.aws-live-streaming.com:446/gwb/bein3/playlist.m3u8
+"#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1692816640.png" group-title="SPORT TH VIP",BEIN 4 THAILAND
+"#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+"https://cdn3.aws-live-streaming.com:446/gwb/bein4/playlist.m3u8
+"#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1693290376.png" group-title="SPORT TH VIP",BEIN 5 THAILAND
+"#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+"https://cdn3.aws-live-streaming.com:446/gwb/bein5/playlist.m3u8
+"#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719513.png" group-title="SPORT TH VIP",BEIN 6 THAILAND
+"#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+"https://cdn3.aws-live-streaming.com:446/gwb/bein6/playlist.m3u8
+"#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694719622.png" group-title="SPORT TH VIP",BEIN 7 THAILAND
+"#EXTVLCOPT:http-referrer=https://guwarpball.vip/
+"https://cdn3.aws-live-streaming.com:446/gwb/bein7/playlist.m3u8
+"#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport1.jpg" group-title="SPORT TH VIP" ,True Sport 1
 #EXTVLCOPT:http-referrer=https://guwarpball.vip/
 https://cdn3.aws-live-streaming.com:446/gwb/tsp1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport2.jpg" group-title="SPORT TH VIP" ,True Sport 2
