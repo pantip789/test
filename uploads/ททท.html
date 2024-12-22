@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <!-- กำหนดการตั้งค่าเมตา เช่น การเข้ารหัสตัวอักษรและการตอบสนองของหน้าจอ -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Link Button</title>
+
+    <style>
+        /* กำหนดสไตล์พื้นฐานสำหรับ body และ html */
+        body, html {
+            font-family: Arial, sans-serif; /* กำหนดฟอนต์ */
+            background-color: #f4f4f9; /* กำหนดสีพื้นหลัง */
+            height: 100%; /* ให้หน้าเว็บเต็มความสูง */
+            margin: 0; /* ลบ margin */
+            padding: 0; /* ลบ padding */
+            overflow-y: scroll; /* กำหนดให้มีสกอร์ล */
+        }
+
+        .container {
+            width: 80%; /* กำหนดความกว้างของคอนเทนเนอร์ */
+            max-width: 1200px; /* กำหนดความกว้างสูงสุด */
+            margin: auto; /* จัดกลางคอนเทนเนอร์ */
+            padding: 20px; /* กำหนดระยะห่างภายใน */
+        }
+
+        .category-title {
+            font-size: 24px; /* ขนาดตัวอักษร */
+            font-weight: bold; /* ทำให้ตัวอักษรหนา */
+            color: #333; /* กำหนดสีตัวอักษร */
+            margin-bottom: 20px; /* กำหนดระยะห่างด้านล่าง */
+            padding: 10px; /* กำหนดระยะห่างภายใน */
+            background-color: #007BFF; /* กำหนดสีพื้นหลังของหัวข้อ */
+            color: white; /* สีตัวอักษร */
+            text-align: center; /* จัดตัวอักษรให้อยู่กลาง */
+            border-radius: 8px; /* มุมโค้ง */
+            margin-top: 20px; /* ระยะห่างด้านบน */
+        }
+
+        /* การจัดการปุ่มที่อยู่ภายใน .button-container */
+        .button-container {
+            display: grid; /* ใช้ grid layout */
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* กำหนดให้ปุ่มมีความกว้างขั้นต่ำ 150px */
+            gap: 10px; /* ระยะห่างระหว่างปุ่ม */
+            padding: 20px; /* ระยะห่างภายใน */
+            border-radius: 8px; /* มุมโค้ง */
+            background-color: #fff; /* กำหนดสีพื้นหลัง */
+            border: 2px solid #007BFF; /* กำหนดกรอบปุ่ม */
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* เพิ่มเงา */
+            margin-bottom: 30px; /* ระยะห่างด้านล่าง */
+        }
+
+        /* การกำหนดลักษณะของปุ่ม */
+        .button-container button {
+            background-color: transparent; /* พื้นหลังโปร่งใส */
+            border: 2px solid #007BFF; /* กรอบปุ่ม */
+            padding: 10px; /* ระยะห่างภายใน */
+            border-radius: 8px; /* มุมโค้ง */
+            cursor: pointer; /* เปลี่ยนเคอร์เซอร์เมื่อชี้ที่ปุ่ม */
+            transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease; /* เพิ่มเอฟเฟกต์การเคลื่อนไหว */
+            text-align: center; /* จัดข้อความให้ตรงกลาง */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 120px; /* ความสูงขั้นต่ำ */
+            max-height: 150px; /* ความสูงสูงสุด */
+        }
+
+        /* เมื่อชี้เมาส์ไปที่ปุ่ม */
+        .button-container button:hover {
+            transform: scale(1.1); /* ทำให้ปุ่มขยาย */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* เพิ่มเงา */
+            background-color: #007BFF; /* เปลี่ยนพื้นหลัง */
+        }
+
+        /* เมื่อคลิกที่ปุ่ม */
+        .button-container button:active {
+            background-color: #0056b3; /* เปลี่ยนสีพื้นหลังเมื่อคลิก */
+        }
+
+        /* การปรับขนาดรูปภาพ */
+        .button-container img {
+            width: 100%; /* ให้ภาพเต็มขนาดปุ่ม */
+            height: 100%; /* ให้ภาพเต็มขนาดปุ่ม */
+            object-fit: cover; /* ปรับภาพให้เหมาะสม */
+            object-position: center; /* จัดตำแหน่งภาพ */
+            border-radius: 8px; /* มุมโค้ง */
+        }
+
+        /* การปรับ scrollbar */
+        .container::-webkit-scrollbar {
+            width: 8px; /* ความกว้างของ scrollbar */
+        }
+
+        .container::-webkit-scrollbar-thumb {
+            background-color: #007BFF; /* สีของส่วนเลื่อน */
+            border-radius: 8px; /* มุมโค้ง */
+        }
+
+        .container::-webkit-scrollbar-track {
+            background-color: #f1f1f1; /* สีพื้นหลังของ scrollbar */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <!-- ส่วนหัวข้อ TV -->
+        <div class="category-title">TV</div>
+        <div class="button-container">
+            <!-- ปุ่มแรกสำหรับการเปิดลิงก์ที่เกี่ยวข้องกับช่อง Cartoon Network -->
+            <button id="first-button" onclick="openLink('intent://dookeela.live/live-tv/cartoon-network#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Cartoon%20Network;scheme=https;type=video/mp4;end')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" alt="Cartoon Network"> <!-- รูปภาพของ Cartoon Network -->
+            </button>
+
+            <!-- ปุ่มอื่นๆ ที่เชื่อมโยงกับลิงก์ต่างๆ -->
+            <button onclick="openLink('intent://dookeela.live/live-tv/cartoon-network#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Cartoon%20Network;scheme=https;type=video/mp4;end')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" alt="NBT">
+            </button>
+           <button id="first-button" onclick="openLink('intent://satellitesuntv1975.blogspot.com/2024/12/nhl-network.html#Intent;package=com.wiseplay;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end')">
+                <img src="https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png" alt="Cartoon Network"> <!-- รูปภาพของ Cartoon Network -->
+<button onclick="openLink('intent://dookeela.live/live-tv/cartoon-network#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Cartoon%20Network;scheme=https;type=video/mp4;end')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" alt="NBT">
+            </button>
+           <button id="first-button" onclick="openLink('intent://satellitesuntv1975.blogspot.com/2024/12/nhl-network.html#Intent;package=com.wiseplay;S.userAgent=exo_player;S.title=Live%20Program;S.referer=;scheme=https;type=video/mp4;end')">
+                <img src="https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png" alt="Cartoon Network"> <!-- รูปภาพของ Cartoon Network -->
+
+            </button>
+        </div>
+
+        <!-- ส่วนหัวข้อ Sports -->
+        <div class="category-title">Sports</div>
+        <div class="button-container">
+            <!-- ปุ่มสำหรับช่อง Sport Channel -->
+            <button onclick="openLink('intent://dookeela.live/live-tv/sport-channel#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Sport%20Channel;scheme=https;type=video/mp4;end')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" alt="Sport Channel">
+            </button>
+        </div>
+
+        <!-- ส่วนหัวข้อ Movies -->
+        <div class="category-title">Movies</div>
+        <div class="button-container">
+            <!-- ปุ่มสำหรับช่อง Fox Movies -->
+            <button onclick="openLink('intent://dookeela.live/live-tv/fox-movies#Intent;package=com.wiseplay;S.referer=https://dookeela.live/&userAgent=exo_player;S.title=Fox%20Movies;scheme=https;type=video/mp4;end')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" alt="Fox Movies">
+            </button>
+        </div>
+    </div>
+
+    <script>
+        /* ฟังก์ชันเพื่อเปิดลิงก์ */
+        function openLink(url) {
+            window.location.href = url; /* เปลี่ยนหน้าตามลิงก์ที่ได้รับ */
+        }
+
+        /* ให้โฟกัสที่ปุ่มแรกเมื่อโหลดหน้า */
+        window.onload = function() {
+            document.getElementById("first-button").focus(); /* ตั้งโฟกัสที่ปุ่มแรก */
+        }
+    </script>
+
+</body>
+
+</html>
