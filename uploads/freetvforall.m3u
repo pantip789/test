@@ -97,7 +97,7 @@ https://edge6a.v2h-cdn.com/news1/news1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/TwwQXPFc/TOPNEW.jpg",TOPNEW HD
 https://live.topnews.co.th/hls/topnews_720.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png",10✅ช่อง 8
-https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
+https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/gJz8LvpC/TPTV.jpg",TPTV
 https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/q7FXrdNm/TS.jpg",12✅TSPORT
