@@ -276,3 +276,22 @@ https://fw4free.inwstream.com/fw4free/sport3.stream/playlist.m3u8
 https://cdn-la2.aws-stream.com/ondemand/od1/40244/video.m3u8
 #EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/in-ten2.png" group-title="SONY TV", SONT TEN 2
 https://cdn-la2.aws-stream.com/ondemand/od1/40243/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MySci" tvg-name="GoodTV MY Sci" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="Good TV",GoodTV MY Sci
+http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/75408
+#EXTINF:-1 tvg-id="Animal Show" tvg-name="GoodTV Animal Show" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="Good TV",GoodTV Animal Show
+http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/75407
+#EXTINF:-1 tvg-id="Samrujlok" tvg-name="GoodTV สำรวจโลก" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="Good TV",GoodTV สำรวจโลก
+http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/75406
+#EXTINF:-1 tvg-id="Thainess" tvg-name="GoodTV ThaiNess" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="Good TV",GoodTV ThaiNess
+http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/75405
+#EXTINF:-1 tvg-id="Khong Dee Thailand" tvg-name="GoodTV ของดีประเทศไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="Good TV",GoodTV ของดีประเทศไทย
+http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/75404
+#EXTINF:-1 tvg-id="" tvg-name="ไทยนิยม Supershow" tvg-logo="http://moo7hd.myddns.me:5103/logo/xtream_logo/02moo_ent/กลาง.png" group-title="Good TV",ไทยนิยม Supershow
+http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/33527
+#EXTINF:-1 tvg-id="" tvg-name="กำเมือง TV" tvg-logo="http://moo7hd.myddns.me:5103/logo/xtream_logo/02moo_ent/เหนือ.png" group-title="Good TV",กำเมือง TV
+http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/33526
+#EXTINF:-1 tvg-id="" tvg-name="ล่องใต้ Channel" tvg-logo="http://moo7hd.myddns.me:5103/logo/xtream_logo/02moo_ent/ใต้.png" group-title="Good TV",ล่องใต้ Channel
+http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/33525
+#EXTINF:-1 tvg-id="" tvg-name="อีสาน show" tvg-logo="http://moo7hd.myddns.me:5103/logo/xtream_logo/02moo_ent/อีสาน.png" group-title="Good TV",อีสาน show
+http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/33061
