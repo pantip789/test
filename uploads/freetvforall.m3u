@@ -142,31 +142,39 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_1/chunklist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrgAU7lnhopin6yxnKknxZSNeOR305_56yrA&usqp=CAU",FREEDOM
 http://210.210.155.66/h/h101/S1/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOOM ANIME" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png" group-title="การ์ตูน",BOOM ANIME
-http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/2757
-#EXTINF:-1 tvg-id="" tvg-name="บูมเมอแรง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="การ์ตูน",บูมเมอแรง
-https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="https://dookeela.live/uploads/1723200736.png" group-title="การ์ตูน",DreamWorks
-http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/2769
-#EXTINF:-1 tvg-id="True Spark Play" tvg-name="True SPARK PLAY" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="การ์ตูน",True SPARK PLAY
-http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/2770
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="การ์ตูน",Cartoon Network TH
-http://mooseven.ddns.net:8080/JjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQmJjSyUnTbKitsKBRFxXofSt0TAgPPpMQm/b1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4Bb1l8BZfyANcIimXrvKOnIBuzJwCIQV4B/2772
-
-#EXTINF:-1 tvg-id=""  group-title="การ์ตูน" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://i.postimg.cc/MpVQ0WVV/Boom-Anime.png",BOOM ANIME
+https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://i.postimg.cc/yWqNWZf5/Mr-Bean.png",Mr. Bean
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png",Moonbug
+http://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://i.postimg.cc/HkkPhhWS/pbskids.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://i.postimg.cc/X74Vp4xp/CMO2-Im-DVEAALCq-Z.png",Cartoon World
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-
-
-
-#EXTINF:-1 tvg-id=""  group-title="การ์ตูน" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
-
-
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon Network TH
+https://cdn10jtedge.indihometv.com/joss/130/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",boomerang
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://i.imgur.com/w7RdSIk.png",Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://i.imgur.com/ykPNNwQ.png",PetClub TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",Zoo Moo (1080p)
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fw4free.com/channel/ch1.webp" group-title="SPORT TH VIP",EPL 1
 #EXTVLCOPT:http-referrer=https://fw4free.com/
